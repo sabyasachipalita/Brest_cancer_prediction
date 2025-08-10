@@ -40,5 +40,6 @@ Supports data-driven decision-making for better outcomes
 
 # Results
 
+https://github.com/sabyasachipalita/Brest_cancer_prediction/blob/sabyasachipalita/sabyasachi/Screenshot%202025-08-10%20114551.png.
 
 
